@@ -18,6 +18,9 @@ For more information on the parameters, please see the [publication (and supplem
 ## Quick start
 
 After installing R and RStudio (for version, see 'Software' bellow), clone the repository. <br />
+
+```git clone https://github.com/eregenyi/WIsH-model-optimization```
+
 From the master script, all other scripts can be run swiftly and easily. <br />
 Keep in mind that some parts of the code may need to be taylored to the needs of your own dataset. 
 
@@ -26,6 +29,10 @@ Keep in mind that some parts of the code may need to be taylored to the needs of
 The scripts were written using: <br />
 R version 3.4.0 <br />
 RStudio Version 1.0.143
+
+## Contributing
+
+When contributing to the repository, such as reporting a bug, submitting a fix or suggesting new features, please use the issues to discuss the changes you wish to make. Contributions are governed by our [Code of Conduct](https://github.com/eregenyi/WIsH-model-optimization/blob/master/CODE_OF_CONDUCT.md), and will be made under the [GPLv3 license](https://github.com/eregenyi/WIsH-model-optimization/blob/master/LICENSE). 
 
 ## License
 
